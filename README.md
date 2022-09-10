@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-
+<img src='http://g.recordit.co/F62AWrinos.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 <img src='http://g.recordit.co/0SW65LGajY.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
