@@ -24,6 +24,8 @@ Here's a walkthrough of implemented features:
 
 <img src='http://g.recordit.co/F62AWrinos.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
+<img src='http://g.recordit.co/0SW65LGajY.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
